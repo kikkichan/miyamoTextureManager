@@ -1,2 +1,4 @@
 # miyamoTextureManager
  
+aiStandardSurfaceに自動でファイルノードをくっつけてくれます
+ColorSpaceの変更も同時にできます
